@@ -1,2 +1,4 @@
 # 运行方法
 进入code文件夹，运行mian.sh进行训练和预测
+
+我们的模型在Transformers文件夹下的的modeling_bert.py中的class BertForSequenceClassification函数中。
